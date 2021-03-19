@@ -1,0 +1,16 @@
+{
+    "users": [
+        {
+            "email": "bultaqi@outlook.com"
+        }
+    ],
+    "plants": [
+        {
+            "id": 1,
+            "nickname": "Giant Bird of Paradise",
+            "scientificName": "Sterlizia Reginae",
+            "description": "Large deep green spoon-like leaves. This plant is the bigger sibling of the Birds of Paradise you probably knew growing up. Native to South America, it's mistakingly callled a banana tree, because it looks like banana plants. Under the right conditions, including full, southern light exposure, proper hummidity and temperature, these plants produce beautiful, orange cranelike flowers indoors. Although rare!",
+            "careInstructions": "Water thoroughly once per week to every other week, when the top 4 inches of soil are dry. Do well in low, medium, and high light environments."
+        }
+    ]
+}
