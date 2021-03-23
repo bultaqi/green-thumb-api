@@ -1,16 +1,25 @@
 {
-    "users": [
-        {
-            "email": "bultaqi@outlook.com"
-        }
-    ],
-    "plants": [
-        {
-            "id": 1,
-            "nickname": "Giant Bird of Paradise",
-            "scientificName": "Sterlizia Reginae",
-            "description": "Large deep green spoon-like leaves. This plant is the bigger sibling of the Birds of Paradise you probably knew growing up. Native to South America, it's mistakingly callled a banana tree, because it looks like banana plants. Under the right conditions, including full, southern light exposure, proper hummidity and temperature, these plants produce beautiful, orange cranelike flowers indoors. Although rare!",
-            "careInstructions": "Water thoroughly once per week to every other week, when the top 4 inches of soil are dry. Do well in low, medium, and high light environments."
-        }
-    ]
+  "users": [
+    {
+      "id": 1,
+      "name": "Gabriel Grant",
+      "email": "bultaqi@outlook.com"
+    }
+  ],
+  "plants": [
+    {
+      "id": 1,
+      "commonName": "Giant Bird of Paradise",
+      "scientificName": "Strelizia nicolai",
+      "description": "Large, deep, spoon-like leaves. This plant is the bigger sibling of the Bird of Paradise you probably knew growing up. Native to South America, it is mistakenly called a banana tree, because it looks like banana plants. Under the right conditions, including: full, southern light exposure, proper humidity and temperature, these plants produce beautiful, orange cranelike flowers indoors, although rare.",
+      "careInstructions": "Water thoroughly once per week to every other week, when the top four inches of soil are dry. They do well in low, medium, and high light environments."
+    },
+    {
+      "commonName": "Snake plant",
+      "scientificName": "Dracaena trifasciata",
+      "description": "ff",
+      "careInstructions": "meff",
+      "id": 2
+    }
+  ]
 }
