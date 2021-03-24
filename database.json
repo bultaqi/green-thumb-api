@@ -21,5 +21,17 @@
       "careInstructions": "meff",
       "id": 2
     }
+  ],
+  "notes": [
+    {
+      "plantId": 1,
+      "message": "balls to the walls",
+      "id": 1
+    },
+    {
+      "plantId": 2,
+      "message": "halls in the malls",
+      "id": 2
+    }
   ]
 }
