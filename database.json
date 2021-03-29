@@ -4,6 +4,11 @@
       "id": 1,
       "name": "Gabriel Grant",
       "email": "bultaqi@outlook.com"
+    },
+    {
+      "email": "angie@angie.com",
+      "name": "Angie Iafrate",
+      "id": 2
     }
   ],
   "plants": [
@@ -12,26 +17,64 @@
       "commonName": "Giant Bird of Paradise",
       "scientificName": "Strelizia nicolai",
       "description": "Large, deep, spoon-like leaves. This plant is the bigger sibling of the Bird of Paradise you probably knew growing up. Native to South America, it is mistakenly called a banana tree, because it looks like banana plants. Under the right conditions, including: full, southern light exposure, proper humidity and temperature, these plants produce beautiful, orange cranelike flowers indoors, although rare.",
-      "careInstructions": "Water thoroughly once per week to every other week, when the top four inches of soil are dry. They do well in low, medium, and high light environments."
+      "careInstructions": "Water thoroughly once per week to every other week, when the top four inches of soil are dry. They do well in low, medium, and high light environments.",
+      "lastWaterDate": "2021-03-24",
+      "userId": 1
+    },
+    {
+      "id": 2,
+      "commonName": "Snake plant",
+      "scientificName": "Sansevieria trifasciata",
+      "description": "Sansevieria trifasciata, commonly called snake plant or mother-in-law’s tongue, is native to tropical western Africa. It is a stemless evergreen perennial that, with proper care, will last for many years. In its native habitat, plant foliage may rise to as much as 4’ tall, but is often smaller (to 2’ tall) on indoor plants. Erect, fleshy, sharply-pointed, sword-shaped leaves are deep green with light gray-green horizontal stripes. Leaves rise stiffly in a rosette from a thick rhizome. Small, fragrant, greenish-white flowers bloom on mature plants in spring, followed by orange berries. Flowers and fruit rarely appear on indoor plants.",
+      "careInstructions": "It prefers warm, bright locations, but tolerates some shade. Protect from hot afternoon sun. Best grown in a well-draining potting mix. Water regularly during the growing season, with significantly reduced watering from fall to late winter. Do not pour water on the center of the rosette. Clay pots that are wider than they are high are often used to make sure this tall and narrow plant is stable and does not topple over. Indoor plants may be placed in shady outside locations in summer. Propagate by leaf cuttings or dividing offsets.",
+      "lastWaterDate": "2021-03-26",
+      "userId": 1
+    },
+    {
+      "id": 3,
+      "commonName": "Golden Pothos",
+      "scientificName": "Epipremnum aureum",
+      "description": "The Golden Pothos, or the Epipremnum aureum, is native to Southeast Asia. It has the reputation of being one of the easiest houseplants to take care of. Its common name, Pothos, comes from the genus is was once classified under: Pothos aureus. The Golden Pothos is known for its heart-shaped green leaves with variegation in yellow. In the wild, it is known to overgrow forest floors and tree trunks due to its aerial root system. In good indoor conditions, you can expect the Golden Pothos to trail to 10 feet long. The Pothos is particularly fitting for indoor settings because it is able to filter gaseous toxins like formaldehyde from the air.",
+      "careInstructions": "Thrives in bright, indirect light, but can tolerate medium to low indirect light. Not suited for intense, direct sun. Water every 1-2 weeks, allowing soil to dry out between watering's. Expect to water more often in brighter light and less often in lower light. Suitable in all humidity's. ",
+      "lastWaterDate": "2021-03-27",
+      "userId": 1
+    },
+    {
+      "id": 4,
+      "commonName": "ZZ plant",
+      "scientificName": "Zamioculcas zamiifolia",
+      "description": "The Zamioculcas zamiifolia – or ZZ plant — is a tropical perennial native to Eastern Africa that has become popular worldwide in recent years due to its tolerance of a wide range of conditions. The ZZ grows smooth, naturally shiny leaves that range from bright lime in their youth to an emerald green in their maturity. Individual leaflets are typically one to three inches long. They spring from thick, slightly bulbous stalks, which grow from large, water-storing rhizomes hidden underneath the soil. The ZZ is a highly dependable houseplant because it can tolerate low light and has low water requirements.",
+      "careInstructions": "Thrives in medium to low indirect light. Can tolerate bright indirect light. Not suited for intense, direct sun. Average home humidity is fine; can tolerate dry air. Water every 2-3 weeks, allowing soil to dry out between watering's. Expect to water more often in brighter light and less often in lower light.",
+      "lastWaterDate": "2021-03-27",
+      "userId": 1
     },
     {
       "commonName": "Snake plant",
       "scientificName": "Dracaena trifasciata",
-      "description": "ff",
-      "careInstructions": "meff",
-      "id": 2
+      "description": "sadf",
+      "careInstructions": "asdf",
+      "userId": "2",
+      "id": 5
     }
   ],
   "notes": [
     {
-      "plantId": 1,
-      "message": "balls to the walls",
+      "plantId": 2,
+      "message": "Man this is cool as shit.",
+      "date": "2021-03-26",
       "id": 1
     },
     {
-      "plantId": 2,
-      "message": "halls in the malls",
+      "plantId": 1,
+      "message": "Garbage",
+      "date": "2021-03-26",
       "id": 2
+    },
+    {
+      "plantId": 1,
+      "message": "Trash Garbage",
+      "date": "2021-03-26",
+      "id": 3
     }
   ]
 }
