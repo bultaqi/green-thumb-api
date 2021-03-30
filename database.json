@@ -76,5 +76,22 @@
       "date": "2021-03-26",
       "id": 3
     }
+  ],
+  "transactions": [
+    {
+      "text": "Fertilizer",
+      "amount": 8.89,
+      "id": 1
+    },
+    {
+      "text": "big ol' plant",
+      "amount": 32.13,
+      "id": 2
+    },
+    {
+      "text": "Large white pot",
+      "amount": 46,
+      "id": 5
+    }
   ]
 }
