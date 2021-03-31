@@ -45,8 +45,8 @@
       "scientificName": "Zamioculcas zamiifolia",
       "description": "The Zamioculcas zamiifolia – or ZZ plant — is a tropical perennial native to Eastern Africa that has become popular worldwide in recent years due to its tolerance of a wide range of conditions. The ZZ grows smooth, naturally shiny leaves that range from bright lime in their youth to an emerald green in their maturity. Individual leaflets are typically one to three inches long. They spring from thick, slightly bulbous stalks, which grow from large, water-storing rhizomes hidden underneath the soil. The ZZ is a highly dependable houseplant because it can tolerate low light and has low water requirements.",
       "careInstructions": "Thrives in medium to low indirect light. Can tolerate bright indirect light. Not suited for intense, direct sun. Average home humidity is fine; can tolerate dry air. Water every 2-3 weeks, allowing soil to dry out between watering's. Expect to water more often in brighter light and less often in lower light.",
-      "lastWaterDate": "2021-03-27",
-      "userId": 1
+      "lastWaterDate": "2021-03-30",
+      "userId": "1"
     },
     {
       "commonName": "Snake plant",
@@ -65,33 +65,11 @@
       "id": 1
     },
     {
-      "plantId": 1,
-      "message": "Garbage",
-      "date": "2021-03-26",
+      "plantId": 4,
+      "message": "The plant was looking a little underwatered yesterday so I added some water.",
+      "date": "2021-03-30",
       "id": 2
-    },
-    {
-      "plantId": 1,
-      "message": "Trash Garbage",
-      "date": "2021-03-26",
-      "id": 3
     }
   ],
-  "transactions": [
-    {
-      "text": "Fertilizer",
-      "amount": 8.89,
-      "id": 1
-    },
-    {
-      "text": "big ol' plant",
-      "amount": 32.13,
-      "id": 2
-    },
-    {
-      "text": "Large white pot",
-      "amount": 46,
-      "id": 5
-    }
-  ]
+  "transactions": []
 }
