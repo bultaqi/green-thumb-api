@@ -71,5 +71,11 @@
       "id": 2
     }
   ],
-  "transactions": []
+  "transactions": [
+    {
+      "id": 1,
+      "text": "Allowance",
+      "amount": 80
+    }
+  ]
 }
